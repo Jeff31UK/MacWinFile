@@ -20,8 +20,9 @@ A native macOS file manager inspired by the classic Windows 3.1 File Manager (Wi
 - **Respects macOS appearance** — works with both light and dark mode
 - **Remembers window size** — persists across app launches
 
-## Screenshots
+## Screenshot
 
+![MacWinFile Screenshot](screenshot.png)
 *Dual-pane file browsing with directory tree and file list*
 
 ## Requirements

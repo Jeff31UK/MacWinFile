@@ -25,6 +25,9 @@ A native macOS file manager inspired by the classic Windows 3.1 File Manager (Wi
 ![MacWinFile Screenshot](screenshot.png)
 *Dual-pane file browsing with directory tree and file list*
 
+![MacWinFile Multiple Windows](screenshot2.png)
+*Multiple windows open side by side*
+
 ## Requirements
 
 - macOS 14.0 (Sonoma) or later
